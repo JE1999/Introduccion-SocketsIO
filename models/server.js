@@ -16,7 +16,7 @@ class Server {
 
         //config socket server
         this.io = socketio(this.server, {
-            //configuration
+            //configuration here!!!
         });
     }
 
